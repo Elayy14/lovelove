@@ -46,7 +46,7 @@
     transition: 0.3s;
 }
 .hero nav .nav-links a:hover{
-    color: #801f82;
+    color: #ffffff;
 }
 .hero .content{
     display: flex;
@@ -59,8 +59,8 @@
 }
 .hero .content .div-text h1{
     margin-bottom: 20px;
-    font-size: 50px;
-    color: #fff;
+    font-size: 30px;
+    color: #464242;
 }
 .hero .content .div-text h4{
     color: #801f82;
@@ -68,9 +68,9 @@
     margin-bottom: 10px;
 }
 .hero .content .div-text p{
-    color: #4f4f4f;
+    color: #555252;
     margin-bottom: 50px;
-    font-size: 18px;
+    font-size: 22px;
 }
 .hero .content .div-text .btn{
     padding: 15px 20px;
